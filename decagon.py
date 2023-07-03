@@ -1,3 +1,4 @@
+
 from turtle import*
 
 speed('slowest')
@@ -23,4 +24,30 @@ lt(36)
 fd(100)
 lt(36)
 hideturtle()
+from turtle import*
+
+speed('slowest')
+#decagon
+fd(100)
+lt(36)
+fd(100)
+lt(36)
+fd(100)
+lt(36)
+fd(100)
+lt(36)
+fd(100)
+lt(36)
+fd(100)
+lt(36)
+fd(100)
+lt(36)
+fd(100)
+lt(36)
+fd(100)
+lt(36)
+fd(100)
+lt(36)
+hideturtle()
+
 mainloop()
